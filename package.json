@@ -4,12 +4,17 @@
     "description": "make by hai0z",
     "publisher": "hai0z",
     "version": "1.0.1",
-    "icon": "./logo (Custom).png",
+    "icon": "logo.png",
     "engines": {
         "vscode": "^1.80.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "cute",
+        "pink",
+        "silky"
     ],
     "contributes": {
         "themes": [

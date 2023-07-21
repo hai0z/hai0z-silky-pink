@@ -1,16 +1,11 @@
-# Silky Theme
+# About Silky Theme
 
-## Working with Markdown
+this is a cute Silky pink theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Angular
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Preview](https://github.com/hai0z/hai0z-silky-pink/blob/main/preview.png?raw=true)
 
-## For more information
+### React
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![Preview](https://github.com/hai0z/hai0z-silky-pink/blob/main/preview2.png?raw=true)
