@@ -45,7 +45,7 @@
 		"scrollbarSlider.background": "#f3b4bf48",
 		"scrollbarSlider.hoverBackground": "#f3b4bf66",
 		"scrollbarSlider.activeBackground": "#e9a6b288",
-		"statusBar.background": "#202330",
+		"statusBar.background": "#2d2f42",
 		"statusBar.debuggingBackground": "#f3b4bf",
 		"statusBar.noFolderBackground": "#f3b4bf",
 		"sideBar.background": "#202330",
@@ -53,7 +53,7 @@
 		"tab.inactiveBackground": "#202330",
 		"tab.border": "#9498a144",
 		"tab.inactiveForeground": "#9498a1",
-		"tab.activeForeground": "#fe7c8e",
+		"tab.activeForeground": "#fff",
 		"tab.activeBorderTop": "#fe7c8e",
 		"terminal.ansiWhite": "#ffffff",		
 		"titleBar.activeBackground": "#202330"

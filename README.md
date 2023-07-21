@@ -1,4 +1,4 @@
-# hai0z-silky-pink README
+# Silky Theme
 
 ## Working with Markdown
 

@@ -1,9 +1,10 @@
 {
     "name": "hai0z-silky-pink",
-    "displayName": "hai0z silky pink",
+    "displayName": "Silky Theme",
     "description": "make by hai0z",
     "publisher": "hai0z",
-    "version": "0.0.1",
+    "version": "1.0.1",
+    "icon": "./logo (Custom).png",
     "engines": {
         "vscode": "^1.80.0"
     },
@@ -13,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "silky pink",
+                "label": "Silky Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/silky pink-color-theme.json"
             }
